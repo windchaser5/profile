@@ -1,0 +1,50 @@
+a {
+  text-decoration: none;
+  /* TODO: design your profile with CSS */
+}
+
+
+
+.btn_blue {
+    width:24px;
+    background-color: #6b72e1;
+    padding: 2px 2px;
+    border-radius: 4px ;
+  }
+
+body {
+    background: #F7F9FC;
+    color: #575F7D;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+
+
+
+.img-circle {
+  width:100px;
+  border-radius: 50%;
+  object-fit;
+
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+.card-white {
+    border-left: 640px;
+    border-right: 640px;
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+
+}
+
+
